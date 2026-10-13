@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="none" stroke="#1E293B" stroke-width="4"/>
+  <text x="256" y="290" font-family="sans-serif" font-weight="900" font-size="168" fill="#FFFFFF" text-anchor="middle" letter-spacing="-6">SK</text>
+  <text x="256" y="370" font-family="sans-serif" font-weight="700" font-size="42" fill="#38BDF8" text-anchor="middle" letter-spacing="16">BRAND</text>
+  <line x1="160" y1="320" x2="352" y2="320" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+</svg>
